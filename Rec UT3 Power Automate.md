@@ -184,7 +184,7 @@ compruebo que va quedando bien usando ctrl+shift+v:
 
 ![](https://github.com/Gabi-mis/abian_rec_UT03/blob/main/md%20ut%2003/Aspose.Words.8fee132c-c070-4eaf-9290-a3ab8a19a8c7.037.jpeg?raw=true)
 
-[link del script]([URL](https://github.com/Gabi-mis/abian_rec_UT03/blob/main/Rec%20UT3%20Power%20Automate.md)) 
+[link del script](https://github.com/Gabi-mis/abian_rec_UT03/blob/main/Rec%20UT3%20Power%20Automate.md) 
 
 ### 7. Explicación<a name="_page26_x69.00_y722.68"></a> del código. 
 
